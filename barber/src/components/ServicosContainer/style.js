@@ -51,7 +51,7 @@ export const Title = styled.h3`
 
 export const Description = styled.p`
     font-size: 0.95rem;
-    color: ${({ theme }) => theme.colors.textSecondary};
+    color: ${({ theme }) => theme.colors.textMuted};
     line-height: 1.4;
 `
 

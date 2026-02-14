@@ -12,7 +12,7 @@ export const ServicosContainer = () => {
                 </Imagem>
                 <Content>
                     <Title>Corte</Title>
-                    <Description>O corte de cabelo retira as pontas ressecadas do cabelo e ajuda no crescimento dos fios.</Description>
+                    <Description>30 mins</Description>
                     <Price>R$ 50,00</Price>
                 </Content>
             </Container>
